@@ -12,8 +12,7 @@ Here’s what I bring to the table:
 - **Machine Learning**: TensorFlow, Keras, Scikit-learn, NumPy, Pandas  
 - **App Development**: Android Studio, Firebase, XML  
 - **Data Visualization**: Matplotlib, Seaborn  
-- **Workflow Tools**: Jupyter Notebook, Google Colab, Git & GitHub  
-- **Foundational Skills**: Data Structures, Algorithms, Object-Oriented Programming (OOP)  
+- **Workflow Tools**: Jupyter Notebook, Google Colab, VS code
 
 ## 🎯 Goals  
 - 🌌 Deepen expertise in **deep learning** and explore **reinforcement learning**.  
