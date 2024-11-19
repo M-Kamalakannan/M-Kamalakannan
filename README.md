@@ -24,9 +24,9 @@ Here’s what I bring to the table:
 Here are some highlights from my portfolio:  
 
 ### **Machine Learning**  
-- 🪖 **Helmet Detection System**:  
+- 🪖 **Helmet Image Classification System**:  
    - A CNN-based model to classify images as "helmet" or "non-helmet" with high accuracy.  
-   - [View Project](#)  
+   - [View Project](https://github.com/M-kamalakannan/Helmet-Image-Classification-System.git)  
 
 - 🍼 **Pregnancy Outcome Predictor** *(In Progress)*:  
    - Leveraging predictive analytics to forecast pregnancy outcomes using comprehensive health data.  
